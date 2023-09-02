@@ -39,12 +39,6 @@ Phone Tracker – Live Tracking of Phones WorldWide- Live Tracking of Your Lost/
 
 ## Screenshots
 
-![Logo](https://github.com/zenna-hacker/Phone-Tracker/blob/main/screenshot/1.jpg?raw=true)
+screenshot/1.jpg
 
 
-![App Screenshot](https://github.com/zenna-hacker/Phone-Tracker/blob/main/screenshot/4.jpg?raw=true)
-![App Screenshot](https://github.com/zenna-hacker/Phone-Tracker/blob/main/screenshot/9.jpg?raw=true)
-![App Screenshot](https://github.com/zenna-hacker/Phone-Tracker/blob/main/screenshot/5.jpg?raw=true)
-![App Screenshot](https://github.com/zenna-hacker/Phone-Tracker/blob/main/screenshot/8.jpg?raw=true)
-![App Screenshot](https://github.com/zenna-hacker/Phone-Tracker/blob/main/screenshot/15.jpg?raw=true)
-![App Screenshot](https://github.com/zenna-hacker/Phone-Tracker/blob/main/screenshot/3.jpg?raw=true)
